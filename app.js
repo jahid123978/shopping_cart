@@ -56,6 +56,10 @@ document.getElementById('case-plus').addEventListener('click', function(){
     updateProductNumber('case', 59, true);
 });
 
+
+
+
+
 //decrement by 1 function 
 document.getElementById('case-minus').addEventListener('click', function(){
     // const decrement = document.getElementById('increase-by1');
